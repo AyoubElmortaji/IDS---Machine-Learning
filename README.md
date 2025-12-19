@@ -1,4 +1,3 @@
-# README.md
 
 # Intrusion Detection System using Machine Learning
 
