@@ -114,12 +114,10 @@ Feel free to open an issue or submit a pull request.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Feel free to use, modify, and share.
 
 ## Acknowledgments
 
 - Dataset: NSL-KDD (https://www.unb.ca/cic/datasets/nsl.html)
 - Built as an educational/experimental project
 
-
-Happy detecting! 🚀
